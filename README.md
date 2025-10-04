@@ -1,8 +1,4 @@
 # Form-Validation
-HTML form with JavaScript validation and CSS styling for the page
-
-# Form Validation 
-
 This project is a business-oriented HTML form with JavaScript validation and CSS styling for the page. The form includes:
 
 - Required field validation
